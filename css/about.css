@@ -31,7 +31,7 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-    font-family: "montserrat";
+    font-family: "Lato";
     font-weight: 400;
     color: #333;
 }
@@ -76,7 +76,7 @@ p {
 }
 
 #headerwrap h2 {
-	font-family: "Quicksand";
+	font-family: "Lato";
 	color: white;
 	font-size: 45px;
 	font-weight: 100;
