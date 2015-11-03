@@ -8,6 +8,7 @@
 	line-height: 1.042;
 } */
 
+<<<<<<< HEAD
 body {
   background-color: #f2f2f2;
     font-family: "Raleway";
@@ -20,6 +21,8 @@ body {
 }
 
 
+=======
+>>>>>>> gh-pages
 .page-marketing-standard .heading + h2 {
 	font-size: 1.6rem;
 }
@@ -30,6 +33,7 @@ body {
 	}
 }
 
+<<<<<<< HEAD
 h1, h2, h3, h4, h5, h6 {
     font-family: "montserrat";
     font-weight: 400;
@@ -44,6 +48,8 @@ p {
 }
 
 
+=======
+>>>>>>> gh-pages
 
 #headerwrap {
 	background: url(../img/header-bg.jpg) no-repeat center top;
@@ -67,7 +73,10 @@ p {
 }
 
 #headerwrap h1 {
+<<<<<<< HEAD
 	font-family: "Raleway";
+=======
+>>>>>>> gh-pages
 	margin-top: 130px;
 	color: white;
 	font-size: 140px;
@@ -76,9 +85,14 @@ p {
 }
 
 #headerwrap h2 {
+<<<<<<< HEAD
 	font-family: "Quicksand";
 	color: white;
 	font-size: 45px;
+=======
+	color: white;
+	font-size: 35px;
+>>>>>>> gh-pages
 	font-weight: 100;
 	letter-spacing: 2px;
 }
@@ -97,6 +111,7 @@ p {
 
 }
 
+<<<<<<< HEAD
 #f {
 	background: #2f2f2f;
 	padding-top: 70px;
@@ -113,6 +128,17 @@ p {
 	color: white;
 	padding-left: 10px;
 
+=======
+.footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  /* Set the fixed height of the footer here */
+  height: 30px;
+  background-color: #f5f5f5;
+}
+
+>>>>>>> gh-pages
 /* adjust hero height with header and adjusted for border-bottom */
 
 @media ( min-width: 992px ) {
